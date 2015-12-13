@@ -1,0 +1,28 @@
+name: NerdUp_Hey
+favicon: null
+layout_spectrum: 0.576381198130548
+typography_spectrum: 0.16027348232455552
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6476429151371121
+  lightness: 0.16546439076773822
+  saturation: 0.4676057861652225
+  rhythmicContrast: 0.6031002034433186
+purpose: []
